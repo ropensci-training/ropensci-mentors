@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Course Title"
+  title: "Mentorship Training and Orientation"
   sidebar:
     background: primary
     # logo: "images/logo.png"
@@ -11,7 +11,7 @@ website:
     align: center
     tools:
       - icon: github
-        href: https://github.com/Pakillo/quarto-course-website-template
+        href: https://github.com/yabellini/ropensci-mentors
         text: GitHub
     style: docked
     contents:
@@ -21,8 +21,8 @@ website:
         text: Schedule
       - href: materials.qmd
         text: Materials
-      - href: https://github.com/Pakillo/quarto-course-website-template/discussions
-        text: Forum
+      - href: instructor_notes.qmd
+        text: Instructor Notes
 
 format:
   html:
