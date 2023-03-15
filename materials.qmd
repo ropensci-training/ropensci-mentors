@@ -2,7 +2,16 @@
 title: "Course Materials"
 ---
 
-[Datasets](data/)
+This training use:
 
-[Slides](slides/)
+* a set of [slides](https://docs.google.com/presentation/d/1qAv8IfSMRRGbQlwOkyM7QvnYQSEvL-cUFPj72ixNgN4/edit?usp=sharing), 
+* a [shared document](https://docs.google.com/document/d/1Grv1yegKh0QmucLqYHLh7tPZCwn3Xhy3paiepzsa9Ow/edit?usp=sharing) with the exercises to solve during the class, to take shared notes, and share resources.
+* a [feedback survey](https://docs.google.com/document/d/1gDe3IcVLoQTl15pFaCOvchIZJpCi3pBlBMjYeUGfqyY/edit?usp=sharing)
+
+We also provide mentors with tools for their roles:
+
+* [Mentors Guidelines](https://docs.google.com/document/d/1aXFSxy02-OBf9zwz1Didi7J6Opz93UWIfTHtPEOWQLw/edit?usp=sharing)
+* [Meeting Templates](https://docs.google.com/document/d/1vjmfbjv9ABJ6fkbtQRMFPydJZ3ypKOIpZ-xf7_iBhvo/edit?usp=sharing)
+* [Meeting report form](https://docs.google.com/document/d/1anS6MEI9eQNhY2pCooudc2zkK3kyMgF0UupXNTf2Los/edit?usp=sharing)
+
 
