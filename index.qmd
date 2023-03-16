@@ -38,9 +38,9 @@ We use different sources to build this training and the material. We thank these
 
 ## How to use this material
 
-If you want to use this material for teaching you can find Instructor notes with a scripts for the course, extra content for the slides and an explanation of the exercises.
+If you want to use this material for teaching you can find _Instructor notes_ with a script for the course, extra content for the slides and an explanation of the exercises.
 
-In the material section, you can access the slides and other templates documents that you can copy, resuse and remix for your training. 
+In the material section, you can access the slides and other templates documents that you can copy, reuse and remix for your training. 
 
 ### License
 
