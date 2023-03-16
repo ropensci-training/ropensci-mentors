@@ -4,12 +4,20 @@ title: "Instructors Notes"
 
 ## Pre-training
 
+Send a calendar invitation with the link to the meeting and a link to the shared notes.
+
+In the shared notes file add the link to the meeting and the rest of the material (such as slides, videos, etc).
+
+Make a reminder the day before and one hour earlier.
+
 
 ## Training
 
 ### Time to connect. 
-Check audio+video 
-Sharing rules of participation. CoC. Sharing material 
+Start the meeting a few minutes early, allow people to enter and check video and audio. Be sure they can listen and see you. Let them know it is ok if they don’t turn on their camera.  Share the document we will be using as shared notes on the chat.
+
+When all people arrive, share the doc one more time and remember rules of participation, like code of conduct and how to use it. Mention a short agenda for the day: “We will see tool for you role as mentor and logistic about the program”. 
+
 
 ### Start the training
 
