@@ -156,10 +156,10 @@ For this final exercise, you can also ask students to write on the chat _"Done!"
 
 ## Post-training
 
-After the training send a message (email, Slack) thanking those who attended and re-sharing important resources:
+After the training, send a message (email, Slack) thanking those who attended and re-sharing essential resources:
 
-- Shared document (which has links to the slides, mentoring guide, meeting templates, etc).
-- Recording of the meeting (in case you have recorded it)
-- The feedback survey (for a second change to fill)
+- Shared document (which has links to the slides, mentoring guide, meeting templates, etc.).
+- Recording of the meeting (in case you have recorded it).
+- The feedback survey (for a second chance to fill).
 
-Check the feedback survey and identify one or two point to improve for the nex iteraction of the training.
+Check the feedback survey and identify one or two points to improve for the next training iteration.
