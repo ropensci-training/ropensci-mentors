@@ -14,7 +14,7 @@ After this training, mentors will work with Champions to develop their project, 
 
 Mentors may also support Champions with delivering other activities including: giving a talk, writing blog posts, and teaching other community 
 
-## Who our mentors are?
+## Who are our mentors?
 
 All training is designed with some learner personas in mind. As a community, we also have personas to describe our members.  When we build this training material, we think about this persona:
 
