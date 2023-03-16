@@ -14,13 +14,29 @@ Make a reminder the day before and one hour earlier.
 ## Training
 
 ### Time to connect. 
-Start the meeting a few minutes early, allow people to enter and check video and audio. Be sure they can listen and see you. Let them know it is ok if they don’t turn on their camera.  Share the document you will be using as shared notes on the chat.
+Start the meeting a few minutes early, allow people to enter, and check the video and audio. Be sure they can listen and see you. Let them know it is ok if they don’t turn on their camera.  Share the document you will be using as shared notes on the chat.
 
-When all people arrive, share the doc one more time and remember rules of participation, like code of conduct and how to use it. Mention a short agenda for the day: _“We will see tool for you role as mentor and logistic about the program”_. 
+When everyone arrives, share the doc and remember the rules of participation, like the code of conduct and how to use it. Mention a short agenda for the day: _“We will see toosl for your role as mentor and logistic about the program”_. 
 
 
 ### Start the training
 
+
+You can start with the first exercise: Mentorship Reflection. (you can decide if you want to share the slides with the exercise, the shared doc with the exercise, or no share screen).
+
+_"We will start with an exercise: Mentorship Reflection. Please think of an experience you've had as a mentor or being mentored.  Use the shared doc to answer the questions next to your name (in alphabetical order)."_
+
+Read the questions aloud and give some more examples on what to think to answer:
+
+_“What went well / what was helpful?” “What was that relationship like? How did it help you? What is one helpful thing your mentor/mentee said/did?”_
+
+ _“What didn’t work? What you needed, and your mentor/mentee couldn't help you?  or didn't understand you?”_
+
+_“Think of a problem you’d like mentoring on right now.”_
+
+_“We will use 10 minutes for this exercise”._
+
+Give them one-two minutes to write in silence. Then you can read some of the answers aloud or add some comments on the doc in silence. Encourage them to read their classmate's answers and do comments. 
 
 
 ### Mentors roles. Mentorship skills 
