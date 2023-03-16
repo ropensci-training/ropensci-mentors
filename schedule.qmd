@@ -8,7 +8,7 @@ Here is an example schedule with a morning training and _90_ minutes long:
 
 
 
-|     |                Morning              |
+|     |               Topic                 |
 |:---:|:-----------------------------------:|
 |8:50-9:00 | Time to connect. Check audio+video |
 |9:00- 9:05| Sharing rules of participation. CoC. Sharing material |

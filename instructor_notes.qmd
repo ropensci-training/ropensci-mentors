@@ -118,7 +118,7 @@ You can create random groups, with no more than 3-4 people in each group. Read t
 
 
 ::: {.callout-note}
-If you are traching the _120_ minutes version of the trainig it is time of a 5/10 minutes break away from the screen. 
+If you are teaching the _120_ minutes version of the trainig it is time of a 5/10 minutes break away from the screen. 
 :::
 
 ::: {.callout-tip}
@@ -129,28 +129,28 @@ If you are teaching the _90_ minutes trainig, then you should remove the
 2.b point on the shared doc.
 :::
 
-Finished this section with slide twelve with a summary for GROW model. 
+Finished this section with slide_ _twelve__ with a summary for GROW model. 
  
 ### Mentor tools. Program logistics 
 
-The next session introduce the Mentors Guidelines and others infrastructure and tools we developed for the champions program. 
+The next session introduces the Mentors Guidelines and others infrastructure and tools we developed for the champions program.
 
-Shared the slide 13, mention each tool and then show the tools.  The most important one is the Mentors Guidelines. Open the document and go trough it showing the section, the resources and information we gather there for them.
+Shared slide __thirteen__, mention each tool, and then show the tools. The most important one is the _Mentors Guidelines_. You can click on the slides to open the document and go through it, showing each section, the list of resources, and the information we gather there for them.
 
-Clic on the link to the other resources to also show them: google drive, slack and meeting templates.
+You can click on the link to the other resources inside the guidelines to show them: be sure to show the google drive and the meeting templates. Finally, you can ask if they want to check the Slack channels. 
 
 ::: {.callout-tip}
-## Cheking for Access
-This is a good time to check for access to these resources: are all in Slack and in the rigth channels? Do you have access to the google drive and the google docs? Can you copy the meeting templates?, can you access the meeting report form?
+## Checking for Access
+This is an excellent time to check for access to these resources: are all in Slack and the proper channels? Do you have access to google drive and google docs? Can you copy the meeting templates and access the meeting report form?
 :::
 
-Now it is time for the next exercise, with the prompt "Are you ready for mentor?" we provide space to comments and to question and clarifications mentors need.  Allow them to speak or write on the shared document or the chat.  If they ask on the chat, copy those comment on the shared doc.  This questions can be useful for the other cohorst. The time for this activity is 10 minutes, but take more minutes if they have good questions about the mentoring role or about the program.  
+Now it is time for the next exercise. With the prompt "Are you ready for mentoring?" we provide space for comments, questions, and clarifications mentors need. Allow them to speak or write on the shared document or the chat. If they ask on the chat, copy those comments on the shared doc. These questions can be useful for the other cohorts. The time for this activity is 10 minutes, but take more minutes if they have good questions about the mentoring role or the program.  
 
-The final exercise calls mentors to practice give a constructive feedback filling an anonymous feedback survey about the trainig. Share the link to the form on the chat or mention they can access the link on the shared note.  Give 5 minutes to fill the survey.
+The final exercise calls mentors to practice giving constructive feedback by filling out an anonymous feedback survey about the training. Share the link to the form on the chat or mention they can access the link on the shared note. Give 5 minutes to fill out the survey.
 
 ::: {.callout-tip}
-## Cheking completion
-For this final exercise you can also ask students to write on the chat "Done!" or "Finish!" or something similar when they finished.  This way you will know and you can end the activity when all are done.  Some times this can mean before the time allocate for the exercise.
+## Checking completion
+For this final exercise, you can also ask students to write on the chat _"Done!"_ or _"Finish!"_ or similar when they finish. This way, you will know, and you can end the activity when all are done. Some times this can mean before the time allocated for the exercise.
 :::
 
 
@@ -161,3 +161,5 @@ After the training send a message (email, Slack) thanking those who attended and
 - Shared document (which has links to the slides, mentoring guide, meeting templates, etc).
 - Recording of the meeting (in case you have recorded it)
 - The feedback survey (for a second change to fill)
+
+Check the feedback survey and identify one or two point to improve for the nex iteraction of the training.
