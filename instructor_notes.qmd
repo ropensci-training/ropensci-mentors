@@ -14,16 +14,14 @@ Make a reminder the day before and one hour earlier.
 ## Training
 
 ### Time to connect. 
-Start the meeting a few minutes early, allow people to enter and check video and audio. Be sure they can listen and see you. Let them know it is ok if they don’t turn on their camera.  Share the document we will be using as shared notes on the chat.
+Start the meeting a few minutes early, allow people to enter and check video and audio. Be sure they can listen and see you. Let them know it is ok if they don’t turn on their camera.  Share the document you will be using as shared notes on the chat.
 
-When all people arrive, share the doc one more time and remember rules of participation, like code of conduct and how to use it. Mention a short agenda for the day: “We will see tool for you role as mentor and logistic about the program”. 
+When all people arrive, share the doc one more time and remember rules of participation, like code of conduct and how to use it. Mention a short agenda for the day: _“We will see tool for you role as mentor and logistic about the program”_. 
 
 
 ### Start the training
 
-Exercise: Mentorship Reflection.
 
-Think of an experience you've had as a mentor or being mentored 
 
 ### Mentors roles. Mentorship skills 
 
