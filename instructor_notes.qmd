@@ -98,12 +98,18 @@ _"When you finish, we will discuss your answer with the whole group."_
 You can create random groups, with no more than 3-4 people in each group. Read their answer during the exercise and choose some groups to share with the whole class. Choose this group because they add something interesting or different to the discussion. If you have a few groups, give all of them a chance to share their insight. 
 
 
+::: {.callout-note}
+If you are traching the _120_ minutes version of the trainig it is time of a 5/10 minutes break away from the screen. 
+:::
 
-
-Break away from the screen. 
-
-Exercise: Practice GROW model mentoring your classmate (using exercise 1 results)|
-
+::: {.callout-tip}
+## Exercise: Practice GROW model mentoring your classmate
+This in an extra exercise for the _120_ minutes version of the training. 
+You will find the instruction on the 2.b exercise on the shared doc. 
+If you are teaching the _90_ minutes trainig, then you should remove the
+2.b point on the shared doc.
+:::
+ 
 ### Mentor tools. Program logistics 
 
 Mentor Guidelines, meeting templates/for. Program insfrastructure|
