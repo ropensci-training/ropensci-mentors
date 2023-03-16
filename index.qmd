@@ -48,4 +48,7 @@ This work is licensed under the [Creative Commons Attribution-NonCommercial 4.0]
 
 ### How to cite this work
 
-Bellini Saibene, Yanina. rOpenSci Champions Program. Mentorship Training and Orientation. (2023).
+![](https://zenodo.org/badge/DOI/10.5281/zenodo.7742298.svg)
+
+Yanina Bellini Saibene. (2023, March 16). Mentorship Training and Orientation. rOpenSci Champions Program. Zenodo. https://doi.org/10.5281/zenodo.7742298
+
