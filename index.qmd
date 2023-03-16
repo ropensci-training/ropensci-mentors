@@ -36,16 +36,16 @@ We use different sources to build this training and the material. We thank these
 * [Teaching Tech Together](https://teachtogether.tech/en/index.html) 
 * [The Carpentries Instructor Training](https://carpentries.github.io/instructor-training/) 
 
-## Instructor Notes
+## How to use this material
 
 If you want to use this material for teaching you can find Instructor notes with a scripts for the course, extra content for the slides and an explanation of the exercises.
 
 In the material section, you can access the slides and other templates documents that you can copy, resuse and remix for your training. 
 
-## License
+### License
 
 This work is licensed under the [Creative Commons Attribution-NonCommercial 4.0](https://creativecommons.org/licenses/by-nc/4.0/) license (CC-BY-NC-4.0).
 
-## How to cite this work
+### How to cite this work
 
 Bellini Saibene, Yanina. rOpenSci Champions Program. Mentorship Training and Orientation. (2023).
