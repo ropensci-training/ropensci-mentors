@@ -11,7 +11,7 @@ website:
     align: center
     tools:
       - icon: github
-        href: https://github.com/yabellini/ropensci-mentors
+        href: https://github.com/ropensci-training/ropensci-mentors
         text: GitHub
     style: docked
     contents:
