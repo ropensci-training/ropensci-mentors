@@ -11,7 +11,7 @@ Here is an example schedule with a morning training and _90_ minutes long, start
 |     |               Topic                 |
 |:---:|:-----------------------------------:|
 |8:50-9:00 | Time to connect. Check audio+video |
-|9:00- 9:05| Sharing rules of participation. CoC. Sharing material |
+|9:00- 9:05| Sharing rules of participation. Code of Conduct. Sharing material |
 |9:05-9:15 | Exercise: Mentorship Reflection. Think of an experience you've had as a mentor or being mentored |
 |9:15-9:25| Mentors roles. Mentorship skills |
 |9:25-9:40| Mentor tools. GROW Model.        | 
