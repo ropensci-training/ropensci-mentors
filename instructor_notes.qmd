@@ -31,7 +31,7 @@ People can't access the previous chat when they join a meeting. So share the doc
 
 ::: {.callout-tip}
 ## Recording
-If you will record the sesion, this is a good time to ask for permission. Be clear on how you will use the recording and with who you will share. 
+If you will record the sesion, this is a good time to ask for permission. Be clear on how you will use the recording and with whom you will share it. 
 :::
 
 
