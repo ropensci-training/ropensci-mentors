@@ -22,7 +22,7 @@ Start the meeting a few minutes early, allow people to enter, and check the vide
 
 When everyone arrives, remember the rules of participation, like the code of conduct and how to use it. Mention a short agenda for the day: 
 
-> We will see toosl for your role as mentor and logistic about the program. We will also shared resources we build for you, to help you with your role. 
+> We will see tools for your role as mentor and logistic about the program. We will also shared resources we build for you, to help you with your role. 
 
 ::: {.callout-tip}
 ## Shared document
@@ -31,13 +31,13 @@ People can't access the previous chat when they join a meeting. So share the doc
 
 ::: {.callout-tip}
 ## Recording
-If you will record the sesion, this is a good time to ask for permission. Be clear on how you will use the recording and with who you will share. 
+If you will record the sesion, this is a good time to ask for permission. Be clear on how you will use the recording and with whom you will share it. 
 :::
 
 
 ### Start the training
 
-You can start with the first exercise: Mentorship Reflection. (you can decide if you want to share the slides with the exercise, the shared doc with the exercise, or no share screen).
+You can start with the first exercise: Mentorship Reflection. (you can decide if you want to share the slides with the exercises, the shared doc with the exercises, or not share the screen).
 
 > We will start with an exercise: Mentorship Reflection. Please think of an experience you've had as a mentor or being mentored.  Use the shared doc to answer the questions next to your name (in alphabetical order).
 
