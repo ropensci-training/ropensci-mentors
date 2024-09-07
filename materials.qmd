@@ -10,8 +10,9 @@ This training use:
 
 We also provide mentors with tools for their roles:
 
-* [Mentors Guidelines](https://docs.google.com/document/d/1aXFSxy02-OBf9zwz1Didi7J6Opz93UWIfTHtPEOWQLw/edit?usp=sharing)
+* [rOpenSci Champions Program Mentor Guidelines](https://ropensci-org.github.io/champions-mentor-guidelines/)
 * [Meeting Templates](https://docs.google.com/document/d/1vjmfbjv9ABJ6fkbtQRMFPydJZ3ypKOIpZ-xf7_iBhvo/edit?usp=sharing)
-* [Meeting report form](https://docs.google.com/document/d/1anS6MEI9eQNhY2pCooudc2zkK3kyMgF0UupXNTf2Los/edit?usp=sharing)
+* [Meeting report form](https://docs.google.com/document/d/1PXYXF5wmrzSiNFylvfGgAvLDh87OZOd7B0qJzeO8VBQ/edit?usp=sharing)
+* [Mentor Monthly Charter](https://docs.google.com/document/d/1-HZRNp4lc7s0NJhKPfGRe8I9dxohBkDyjUC35KINHCQ/edit?usp=sharing)
 
 
