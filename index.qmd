@@ -6,13 +6,13 @@ This course is part of the rOpenSci Champion Program's mentor training and orien
 
 Mentors play a vital role in the rOpenSci Champions Program by helping select the first cohort of Champions and advising and inspiring their mentees. Mentors will also __connect__ their mentees to people, programs, and organizations; __recommend__, resources, readings, training, and experiences; and provide __feedback__ on the mentee’s project.
 
-After this training, mentors will work with Champions to develop their project, which can be one of the following options:
+After this training, mentors will work with Champions to support them while develop their project, which can be one of the following options:
 
 * Create a new package;
 * Go through the review process with an R package they have already developed;
 * Serve as a reviewer for the rOpenSci software peer review system.
 
-Mentors may also support Champions with delivering other activities including: giving a talk, writing blog posts, and teaching other community 
+Mentors may also support Champions with delivering other activities including: giving a talk, writing blog posts, and teaching other community. 
 
 ## Who are our mentors?
 
@@ -27,6 +27,15 @@ Fausti learned about the [champions program](https://ropensci.org/champions/) an
 
 During this training and orientation, Fausti will gain mentoring skills (active listening, effective questioning, giving feedback), will receive resources for their mentoring role such as the Mentors Guidelines, Meeting Templates and details of the logistics of the champions program.
 
+## Learning goals
+
+- What does a mentor do? 
+- How can I actively listen to my Fellow?
+- How can I ask effective questions?
+- How do I give good feedback?
+- How do I set expectations for myself and the mentee?
+- What are useful tools when guiding someone through a project?
+- How the program is organize?
 
 ## Sources
 
