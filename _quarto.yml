@@ -33,3 +33,16 @@ format:
 execute:
   freeze: auto
 
+
+babelquarto:
+  languagecodes:
+  - name: es
+    text: "Version in es"
+  - name: en
+    text: "Version in en"
+  mainlanguage: 'en'
+  languages: ['es']
+title-es: Capacitación y orientación para mentores y mentoras.
+description-es: Este curso es parte del programa de mentoría de rOpenSci. El objetivo de este curso es capacitar a las personas mentoras para que puedan llevar adelante su rol durante su participación en el programa.
+author-es: Yanina Bellini Saibene
+lang: en
