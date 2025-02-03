@@ -1,0 +1,18 @@
+---
+title: "Course Materials"
+---
+
+This training use:
+
+* a set of [slides](https://docs.google.com/presentation/d/1qAv8IfSMRRGbQlwOkyM7QvnYQSEvL-cUFPj72ixNgN4/edit?usp=sharing), 
+* a [shared document](https://docs.google.com/document/d/1Grv1yegKh0QmucLqYHLh7tPZCwn3Xhy3paiepzsa9Ow/edit?usp=sharing) with the exercises to solve during the class, to take shared notes, and share resources.
+* a [feedback survey](https://docs.google.com/document/d/1gDe3IcVLoQTl15pFaCOvchIZJpCi3pBlBMjYeUGfqyY/edit?usp=sharing)
+
+We also provide mentors with tools for their roles:
+
+* [rOpenSci Champions Program Mentor Guidelines](https://ropensci-org.github.io/champions-mentor-guidelines/)
+* [Meeting Templates](https://docs.google.com/document/d/1vjmfbjv9ABJ6fkbtQRMFPydJZ3ypKOIpZ-xf7_iBhvo/edit?usp=sharing)
+* [Meeting report form](https://docs.google.com/document/d/1PXYXF5wmrzSiNFylvfGgAvLDh87OZOd7B0qJzeO8VBQ/edit?usp=sharing)
+* [Mentor Monthly Charter](https://docs.google.com/document/d/1-HZRNp4lc7s0NJhKPfGRe8I9dxohBkDyjUC35KINHCQ/edit?usp=sharing)
+
+

@@ -15,13 +15,13 @@ website:
         text: GitHub
     style: docked
     contents:
-      - href: index.en.qmd
+      - href: index.qmd
         text: Home
-      - href: schedule.en.qmd
+      - href: schedule.qmd
         text: Schedule
-      - href: materials.en.qmd
+      - href: materials.qmd
         text: Materials
-      - href: instructor_notes.en.qmd
+      - href: instructor_notes.qmd
         text: Instructor Notes
 
 format:
