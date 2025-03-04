@@ -1,8 +1,8 @@
 ---
-title: Notas del instructor
+title: Notas para docentes
 ---
 
-## Formación previa
+## Previo a la formación
 
 Envía una invitación al calendario con el enlace a la reunión y un enlace a las notas compartidas.
 
@@ -19,19 +19,19 @@ Utiliza los diferentes canales que tengas. Por ejemplo, nosotros utilizamos Slac
 
 ## Formación
 
-### Hora de conectar.
+### Hora de conectarse.
 
-Empieza la reunión unos minutos antes, permite que la gente entre y comprueba el vídeo y el audio. Asegúrate de que pueden escucharte y verte. Hazles saber que no pasa nada si no encienden la cámara. Comparte el documento que utilizarás como notas compartidas en el chat.
+Empieza la reunión unos minutos antes, permite que la gente entre y comprueba el vídeo y el audio. Asegúrate que las personas conectadas pueden escucharte y verte. Hazles saber que no pasa nada si no encienden la cámara. Comparte el documento que utilizarás como notas compartidas en el chat.
 
-Cuando lleguen todos, recuerda las normas de participación, como el código de conducta y cómo utilizarlo. Menciona un breve orden del día:
+Cuando lleguen todos/as, recuérdale a todas las personas conectadas las normas de participación, como el código de conducta y cómo utilizarlo. Menciona un breve orden del día:
 
-> Veremos herramientas para tu papel de mentor y logística sobre el programa. También compartiremos recursos que construimos para ti, para ayudarte en tu papel.
+> Veremos herramientas para ayudarte en tu rol de mentor/a y logística sobre el programa. También compartiremos recursos que construimos para ti, para ayudarte en tu rol.
 
 ::: {.callout-tip}
 
 ## Documento compartido
 
-Las personas no pueden acceder al chat anterior cuando se unen a una reunión. Así que comparte el doc una última vez cuando estén todos los asistentes. Además, comparte el doc antes de cada ejercicio para asegurarte de que todos los alumnos pueden acceder a él.
+Las personas no pueden ver lo que se compartió en el chat antes de que se sumaran a la reunión. Así que comparte el documento una última vez cuando ya estén todos los asistentes. También comparte el documento antes de cada ejercicio para asegurarte de que todos/as pueden acceder a él.
 :::
 
 ::: {.callout-tip}
@@ -45,25 +45,25 @@ Si vas a grabar la sesión, éste es un buen momento para pedir permiso. Deja cl
 
 Puedes empezar con el primer ejercicio: Reflexión sobre la tutoría. (puedes decidir si quieres compartir las diapositivas con los ejercicios, el documento compartido con los ejercicios, o no compartir la pantalla).
 
-> Empezaremos con un ejercicio: Reflexión sobre la tutoría. Por favor, piensa en una experiencia que hayas tenido como mentor o siendo mentorizado.  Utiliza el documento compartido para responder a las preguntas que aparecen junto a tu nombre (por orden alfabético).
+> Empezaremos con un ejercicio: Reflexión sobre la tutoría. Por favor, piensa en una experiencia que hayas tenido como mentor/a o como aprendiz recibiendo mentorías.  Utiliza el documento compartido para responder a las preguntas que aparecen junto a tu nombre (por orden alfabético).
 
 Lee las preguntas en voz alta y da algunos ejemplos más sobre qué pensar para responder:
 
 > ¿Qué fue bien / qué fue útil?" "¿Cómo fue esa relación? ¿En qué te ayudó? ¿Qué cosa útil dijo/hizo tu mentor/aprendiz?
 > 
-> ¿Qué no funcionó? ¿Qué necesitabas y tu mentor/aprendiz no pudo ayudarte o no te entendió?
+> ¿Qué no funcionó? ¿Qué necesitabas y tu mentor/a o aprendiz no pudo ayudarte o no te entendió?
 > 
 > Piensa en un problema sobre el que te gustaría recibir tutoría ahora mismo.
 
 ::: {.callout-tip}
 
-## Tiempo de actividades
+## Actividades
 
 Aclara siempre al principio de la actividad de cuánto tiempo disponemos para realizarla.
 *"Utilizaremos 10 minutos para este ejercicio".*, *"Haremos una pausa de 10 minutos"*
 :::
 
-Dales uno o dos minutos para escribir en silencio. Luego puedes leer algunas de las respuestas en voz alta o añadir algunos comentarios en el documento en silencio. Anímales a leer las respuestas de sus compañeros y a hacer comentarios.
+Dales uno o dos minutos para escribir en silencio. Luego puedes leer algunas de las respuestas en voz alta o añadir algunos comentarios en el documento en silencio. Anímales a leer las respuestas de sus compañeros/as y a hacer comentarios.
 
 ### Funciones de los mentores. Habilidades del mentor
 
@@ -78,27 +78,27 @@ En **diapositiva cuatro** se resumen las habilidades de tutoría que veremos hoy
 
 > Escuchar activamente, Preguntar eficazmente, Dar feedback.
 
-Mostrar **diapositiva cinco** ahora sobre la escucha activa. Antes de mostrar algunas viñetas, empieza con una pregunta:
+Mostrar la **diapositiva cinco** ahora sobre la escucha activa. Antes de mostrar algunas viñetas, empieza con una pregunta:
 
-> Por favor, contesta en el chat o desactívate y contesta: ¿Qué es la escucha activa? ¿Cómo es la escucha activa?
+> Por favor, contesta en el chat o activa tu micrófono y contesta: ¿Qué es la escucha activa? ¿Cómo es la escucha activa?
 
-Dales tiempo para pensar y compartir. Lee en voz alta la charla si alguien la comparte por escrito. Repasa lo que han dicho. Podrán mencionar información útil que puedes anotar cuando muestres la viñeta sobre la escucha activa. Por ejemplo, alguien puede compartir que la escucha activa es *cuando la gente hace preguntas buenas y perspicaces. O cuando te prestan atención (no están mirando el teléfono o contestando al correo electrónico).*.
+Dales tiempo para pensar y compartir. Lee en voz alta las respuestas en el _chat_  si alguien la comparte por escrito. Repasa lo que han dicho. Podrán mencionar información útil que puedes anotar cuando muestres la viñeta sobre la escucha activa. Por ejemplo, alguien puede compartir que la escucha activa es *cuando la gente hace preguntas buenas y perspicaces. O cuando te prestan atención (no están mirando el teléfono o contestando correos).*.
 
-Ahora sigue con **diapositiva seis** sobre el interrogatorio eficaz. Antes de mostrar los conceptos y consejos sobre el interrogatorio eficaz, haz las preguntas:
+Ahora sigue con la **diapositiva seis** sobre el interrogatorio eficaz. Antes de mostrar los conceptos y consejos sobre el interrogatorio eficaz, haz las preguntas:
 
-> ¿Por qué son importantes las preguntas en la tutoría? ¿Qué tipo de preguntas son útiles? Por favor, contesta en el chat o quítate el silencio y contesta
+> ¿Por qué son importantes las preguntas en la tutoría? ¿Qué tipo de preguntas son útiles? Por favor, contesta en el chat o activa tu micrófono y contesta
 
 Dales tiempo para pensar y compartir. Lee en voz alta el chat si alguien comparte por escrito. Da prioridad a las personas que no participan en la pregunta anterior. Repite lo que han dicho. Utiliza su respuesta al compartir las viñetas de la diapositiva.
 
-Como parte final de esta sección, pasa a **diapositiva siete** sobre dar feedback.  Aquí tenemos dos preguntas orientativas:
+Como parte final de esta sección, pasa a la **diapositiva siete** sobre dar feedback.  Aquí tenemos dos preguntas que pueden orientar la actividad:
 
 > ¿Qué ocurre si sólo das opiniones positivas? Como hicimos anteriormente, por favor, comparte tus pensamientos en el chat o hablando en voz alta.
 
-Después de que dos o tres de ellos compartan sus ideas, puedes formular la segunda pregunta:
+Después de que dos o tres personas compartan sus ideas, puedes formular la segunda pregunta:
 
 > ¿Qué ocurre si sólo damos opiniones negativas?
 
-Dales tiempo para pensar y compartir.  Lee en voz alta la charla si alguien la comparte por escrito.
+Dales tiempo para pensar y compartir.  Lee en voz alta la respuesta si alguien la comparte por escrito.
 
 Ahora muestra el dibujo animado sobre la retroalimentación y las viñetas de la diapositiva. Utiliza una vez más sus respuestas para dar ejemplos o apoyar estos puntos. Menciona que:
 
