@@ -4,9 +4,9 @@ title: Programa de Campeon(a|e)s de rOpenSci. Formación y orientación para men
 
 Este curso forma parte de la formación y orientación de mentores y mentoras del Programa de Campeon(a|e)s de rOpenSci.
 
-Las personas que realizan las mentoras desempeñan un papel vital en el Programa, ayudando a seleccionar la cohorte de participantes y asesorando e inspirandolos. Los mentores y mentoras también **conectan** a sus discípulos con personas, programas y organizaciones; **recomiendan** recursos, lecturas, formación y experiencias; y proporcionan **comentarios** sobre el proyecto de su pupila.
+Las mentorías desempeñan un papel vital en el Programa, ayudando a seleccionar la cohorte de participantes y asesorando e inspirándolos. Los mentores y mentoras también **conectan** a sus estudiantes con personas, programas y organizaciones; **recomiendan** recursos, lecturas, formación y experiencias; y proporcionan **feedback** en el projecto de sus campeones/as.
 
-Tras esta formación, los mentor(e|a)s trabajarán con los Campeon(a|e)s para apoyarles mientras desarrollan su proyecto, que puede ser una de las siguientes opciones:
+Tras esta formación, los mentor(e|a)s trabajarán con los Campeon(a|e)s para apoyarlos mientras desarrollan su proyecto, que puede ser una de las siguientes opciones:
 
 - Crear un nuevo paquete;
 - Pasar por el proceso de revisión con un paquete R que ya hayan desarrollado;
