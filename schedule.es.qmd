@@ -8,7 +8,7 @@ Aquí tienes un ejemplo de horario con una formación por la mañana y *90* minu
 
 |             | Tema                                                                                                               | 
 | :---------: | :----------------------------------------------------------------------------------------------------------------: |
-| 8:50-9:00   | Hora de conectar. Comprueba audio+vídeo                                                                            | 
+| 8:50-9:00   | Hora de conectarse. Comprueba audio+vídeo                                                                            | 
 | 9:00- 9:05  | Puesta en común de las normas de participación. Código de conducta. Compartir materiales                           | 
 | 9:05-9:15   | Ejercicio: Reflexión sobre la tutoría. Piensa en una experiencia que hayas tenido como mentor o siendo mentorizado | 
 | 9:15-9:25   | Funciones de los mentores. Habilidades de tutoría                                                                  | 
