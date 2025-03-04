@@ -1,18 +1,18 @@
 ---
-title: "Course Materials"
+title: Materiales del curso
 ---
 
-This training use:
+Estos materiales de capacitación utilizan:
 
-* a set of [slides](https://docs.google.com/presentation/d/1qAv8IfSMRRGbQlwOkyM7QvnYQSEvL-cUFPj72ixNgN4/edit?usp=sharing), 
-* a [shared document](https://docs.google.com/document/d/1Grv1yegKh0QmucLqYHLh7tPZCwn3Xhy3paiepzsa9Ow/edit?usp=sharing) with the exercises to solve during the class, to take shared notes, and share resources.
-* a [feedback survey](https://docs.google.com/document/d/1gDe3IcVLoQTl15pFaCOvchIZJpCi3pBlBMjYeUGfqyY/edit?usp=sharing)
+- un juego de [diapositivas](https://docs.google.com/presentation/d/1qAv8IfSMRRGbQlwOkyM7QvnYQSEvL-cUFPj72ixNgN4/edit?usp=sharing),
+- un [documento compartido](https://docs.google.com/document/d/1Grv1yegKh0QmucLqYHLh7tPZCwn3Xhy3paiepzsa9Ow/edit?usp=sharing) con los ejercicios para resolver durante la clase, para tomar notas compartidas y también para compartir recursos.
+- una [encuesta de opinión](https://docs.google.com/document/d/1gDe3IcVLoQTl15pFaCOvchIZJpCi3pBlBMjYeUGfqyY/edit?usp=sharing)
 
-We also provide mentors with tools for their roles:
+También proporcionamos a los mentores y mentoras herramientas para desempeñar sus funciones:
 
-* [rOpenSci Champions Program Mentor Guidelines](https://ropensci-org.github.io/champions-mentor-guidelines/)
-* [Meeting Templates](https://docs.google.com/document/d/1vjmfbjv9ABJ6fkbtQRMFPydJZ3ypKOIpZ-xf7_iBhvo/edit?usp=sharing)
-* [Meeting report form](https://docs.google.com/document/d/1PXYXF5wmrzSiNFylvfGgAvLDh87OZOd7B0qJzeO8VBQ/edit?usp=sharing)
-* [Mentor Monthly Charter](https://docs.google.com/document/d/1-HZRNp4lc7s0NJhKPfGRe8I9dxohBkDyjUC35KINHCQ/edit?usp=sharing)
+- [Directrices para mentores/as del Programa rOpenSci Champions](https://ropensci-org.github.io/champions-mentor-guidelines/)
+- [Plantillas de reuniones](https://docs.google.com/document/d/1vjmfbjv9ABJ6fkbtQRMFPydJZ3ypKOIpZ-xf7_iBhvo/edit?usp=sharing)
+- [Formulario de informe de reunión](https://docs.google.com/document/d/1PXYXF5wmrzSiNFylvfGgAvLDh87OZOd7B0qJzeO8VBQ/edit?usp=sharing)
+- [Carta/Acta Mensual de Mentor/a](https://docs.google.com/document/d/1-HZRNp4lc7s0NJhKPfGRe8I9dxohBkDyjUC35KINHCQ/edit?usp=sharing)
 
 
