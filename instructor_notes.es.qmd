@@ -116,23 +116,23 @@ Observa que creamos plantillas para las reuniones como andamiaje para su tarea d
 
 Utiliza las diapositivas nueve y diez para presentar el modelo y luego haz el segundo ejercicio.
 
-> Trabajaréis en grupos para el siguiente ejercicio. Dispondréis de 10 minutos para ver el vídeo enlazado en el documento compartido. Es un ejemplo en el que se utiliza el modelo CRECER. La idea es que intentes identificar los pasos del modelo. Puedes volver a ver el vídeo o parar, responder y luego continuar. Utiliza el doc compartido en tu espacio de grupo para escribir tus preguntas.\_
+> Trabajarán en grupos para el siguiente ejercicio. Dispondrán de 10 minutos para ver el vídeo que aparece en el documento compartido. Es un ejemplo en el que se utiliza el modelo GROW. La idea es que intentes identificar los pasos del modelo. Puedes volver a ver el vídeo o parar, responder y luego continuar. Utiliza el documento compartido en tu espacio de grupo para escribir tus preguntas.\_
 > 
 > Cuando termines, discutiremos tu respuesta con todo el grupo.
 
 Puedes crear grupos al azar, con no más de 3-4 personas en cada grupo. Lee su respuesta durante el ejercicio y elige algunos grupos para compartirla con toda la clase. Elige a cada grupo porque aporta algo interesante o diferente a la discusión. Si tienes varios grupos, dales a todos la oportunidad de compartir su visión.
 
 ::: {.callout-note}
-Si estás enseñando el *120* minutos de formación, es el momento de hacer una pausa de 5/10 minutos lejos de la pantalla.
+Si estás enseñando la versión de la formación de  *120* minutos, es el momento de hacer una pausa de 5/10 minutos lejos de la pantalla.
 :::
 
 ::: {.callout-tip}
 
-## Ejercicio: Practica el modelo CRECE asesorando a tu compañero
+## Ejercicio: Practica el modelo GROW
 
-Este es un ejercicio extra para el *120* minutos de entrenamiento.
+Este es un ejercicio extra para la versión de *120* minutos.
 Encontrarás las instrucciones sobre el ejercicio 2.b en el documento compartido.
-Si enseñas el *90* minutos de formación, debes eliminar la
+Si enseñas la versión de *90* minutos de la formación, debes eliminar el
 punto 2.b del documento compartido.
 :::
 
