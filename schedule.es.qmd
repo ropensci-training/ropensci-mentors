@@ -9,9 +9,9 @@ Aquí tienes un ejemplo de horario con una formación por la mañana y *90* minu
 |             | Tema                                                                                                               | 
 | :---------: | :----------------------------------------------------------------------------------------------------------------: |
 | 8:50-9:00   | Hora de conectarse. Comprueba audio+vídeo                                                                            | 
-| 9:00- 9:05  | Puesta en común de las normas de participación. Código de conducta. Compartir materiales                           | 
-| 9:05-9:15   | Ejercicio: Reflexión sobre la tutoría. Piensa en una experiencia que hayas tenido como mentor o siendo mentorizado | 
-| 9:15-9:25   | Funciones de los mentores. Habilidades de tutoría                                                                  | 
+| 9:00- 9:05  | Puesta en común de las normas de participación. Código de conducta. Compartir materiales.                           | 
+| 9:05-9:15   | Ejercicio: Reflexión sobre realizar tutorías. Piensa en una experiencia que hayas tenido como mentor/a o siendo la persona quien recibió la mentoría. |
+| 9:15-9:25   | Funciones de los mentores. Habilidades para ser mentor/a.                                                                  | 
 | 9:25-9:40   | Herramientas del mentor. Modelo GROW.                                                                              | 
 | 9:40-9:55   | Ejercicio: Trabajo en grupo con el Modelo GROW                                                                     | 
 | 9:55-10:10  | Herramientas del mentor. Logística e infraestructura del programa.                                                 | 
