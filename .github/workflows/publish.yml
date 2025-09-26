@@ -11,6 +11,8 @@ jobs:
   babelquarto:
     env:
       GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
+    permissions:
+      contents: write
     name: Render-Book
     runs-on: ubuntu-latest
     steps:
