@@ -35,11 +35,12 @@ execute:
 
 
 babelquarto:
+  languagelinks: sidebar
   languagecodes:
   - name: es
-    text: "Version in es"
+    text: "Español"
   - name: en
-    text: "Version in en"
+    text: "English"
   mainlanguage: 'en'
   languages: ['es']
 title-es: Capacitación y orientación para mentores y mentoras.
