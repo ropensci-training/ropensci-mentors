@@ -1,0 +1,177 @@
+---
+title: Notas dos instrutores
+---
+
+## Pré-treinamento
+
+Envie um convite de calendário com o link para a reunião e um link para as anotações compartilhadas.
+
+No arquivo de anotações compartilhadas, adicione o link para a reunião e o restante do material (como slides, vídeos, etc.).
+
+Faça um lembrete no dia anterior e uma hora antes.
+
+::: {.callout-tip}
+
+## Lembretes
+
+Use os diferentes canais que você tem. Por exemplo, usamos o Slack e o e-mail.  Tente usar lembretes independentes de fuso horário, como *"Vejo todos vocês em 50 minutos, aqui (link)"*
+:::
+
+## Treinamento
+
+### É hora de você se conectar.
+
+Inicie a reunião com alguns minutos de antecedência, permita que as pessoas entrem e verifique o vídeo e o áudio. Certifique-se de que elas possam ouvir e ver você. Informe que não há problema se eles não ligarem a câmera. Compartilhe o documento que você usará como anotações compartilhadas no bate-papo.
+
+Quando todos chegarem, lembre-se das regras de participação, como o código de conduta e como usá-lo. Mencione uma breve agenda para o dia:
+
+> Veremos as ferramentas para você desempenhar a função de mentor e a logística do programa. Também compartilharemos recursos que criamos para você, para ajudá-lo em sua função.
+
+::: {.callout-tip}
+
+## Documento compartilhado
+
+As pessoas não podem acessar o bate-papo anterior quando entram em uma reunião. Portanto, compartilhe o documento uma última vez quando todos os participantes estiverem presentes. Além disso, compartilhe o documento antes de cada exercício para garantir que todos os alunos possam acessá-lo.
+:::
+
+::: {.callout-tip}
+
+## Gravação
+
+Se você for gravar a sessão, este é um bom momento para pedir permissão. Seja claro sobre como você usará a gravação e com quem você a compartilhará.
+:::
+
+### Comece o treinamento
+
+Você pode começar com o primeiro exercício: Reflexão sobre mentoria. (você pode decidir se deseja compartilhar os slides com os exercícios, o documento compartilhado com os exercícios ou não compartilhar a tela).
+
+> Começaremos com um exercício: Reflexão sobre mentoria. Pense em uma experiência que você teve como mentor ou sendo mentorado.  Use o documento compartilhado para responder às perguntas ao lado de seu nome (em ordem alfabética).
+
+Leia as perguntas em voz alta e dê mais alguns exemplos do que você deve pensar para responder:
+
+> O que deu certo / o que foi útil?" "Como foi esse relacionamento com você? Como ele ajudou você? O que seu mentor/mentorado disse/faz de útil para você?
+> 
+> O que não funcionou? O que você precisava e seu mentor/mentorando não pôde ajudá-lo ou não o entendeu?
+> 
+> Pense em um problema para o qual você gostaria de receber orientação agora mesmo.
+
+::: {.callout-tip}
+
+## Tempo para atividades
+
+Sempre esclareça no início da atividade quanto tempo você tem para realizá-la.
+*"Usaremos 10 minutos para este exercício"*, *"Faremos um intervalo de 10 minutos"*
+:::
+
+Dê a eles um ou dois minutos para escreverem em silêncio. Em seguida, você pode ler algumas das respostas em voz alta ou acrescentar alguns comentários ao documento em silêncio. Incentive-os a ler as respostas de seus colegas e a fazer comentários.
+
+### Funções dos mentores. Habilidades de mentoria
+
+Você continua com **slide três** sobre as funções dos mentores.
+
+> O que os mentores fazem? Os mentores aconselham e inspiram. Como você faz isso?
+> Recomende recursos, leituras, treinamentos, experiências. Feedback que você deve considerar.
+> Conecte-se a pessoas, programas e organizações.
+
+Você deve dar exemplos de cada atividade relacionada ao tipo de projeto que eles serão mentores.
+Em **slide quatro** você resume as habilidades de mentoria que veremos hoje:
+
+> Escuta ativa, questionamento eficaz, dar feedback.
+
+Mostrar **slide cinco** Agora você vai falar sobre a escuta ativa. Antes de mostrar alguns marcadores, você começa com uma pergunta:
+
+> Por favor, responda no bate-papo ou tire o som e responda: O que é a escuta ativa? Como é a escuta ativa?
+
+Dê a eles tempo para pensar e compartilhar. Leia em voz alta o bate-papo se alguém compartilhar por escrito. Repita o que eles disseram. Eles poderão mencionar informações úteis que você pode anotar quando mostrar o marcador sobre a escuta ativa. Por exemplo, alguém pode dizer que a escuta ativa é *quando as pessoas fazem perguntas boas e perspicazes. Ou quando elas prestam atenção em você (não estão olhando o telefone ou respondendo ao e-mail)*.
+
+Agora você segue com **slide seis** sobre perguntas eficazes. Antes de mostrar conceitos e dicas de perguntas eficazes, faça as perguntas:
+
+> Por que as perguntas são importantes na mentoria? Que tipos de perguntas são úteis? Por favor, responda no bate-papo ou tire você mesmo o som e responda
+
+Dê a eles tempo para pensar e compartilhar. Leia em voz alta o bate-papo se alguém compartilhar por escrito. Dê prioridade às pessoas que não participaram da pergunta anterior. Reveja o que elas disseram. Use a resposta deles ao compartilhar os pontos de destaque no slide.
+
+Como parte final desta seção, você vai para **slide sete** sobre como dar feedback.  Aqui você tem duas perguntas rápidas:
+
+> O que acontece se você só der feedback positivo? Assim como fizemos anteriormente, compartilhe suas ideias no bate-papo ou fale mais alto.
+
+Depois que dois ou três deles compartilharem seus pensamentos, você pode fazer a segunda pergunta:
+
+> O que acontece se fornecermos somente feedback negativo?
+
+Dê a eles tempo para pensar e compartilhar.  Leia em voz alta o bate-papo se alguém compartilhar por escrito.
+
+Agora, mostre a história em quadrinhos sobre feedback e os pontos de destaque no slide. Mais uma vez, use a resposta deles para dar exemplos ou apoiar esses pontos. Mencione que:
+
+> O feedback pode ser a forma como você dá conselhos. Ele também permite que todos cresçam.
+
+> O material de origem para um bom feedback é construído com base nas duas habilidades acima, escuta ativa e questionamento eficaz.
+
+O slide a seguir (número oito) apresenta as Reuniões.
+
+> As reuniões são um dos locais em que a mentoria ocorrerá e onde os mentores usarão a habilidade que mencionamos.
+
+Observe que criamos modelos para as reuniões como um andaime para a tarefa de mentoria. E, em seguida, apresentamos o modelo GROW.
+
+### Ferramentas do mentor. Modelo GROW.
+
+Use os slides nove e dez para apresentar o modelo e, em seguida, você fará o segundo exercício.
+
+> Você trabalhará em grupos para o próximo exercício. Você terá 10 minutos para assistir ao vídeo vinculado no documento compartilhado. É um exemplo que usa o modelo GROW. A ideia é que você tente identificar as etapas do modelo. Você pode assistir novamente ao vídeo ou parar, responder e depois continuar. Use o documento compartilhado no espaço do grupo para escrever suas perguntas.
+> 
+> Quando você terminar, discutiremos sua resposta com todo o grupo.
+
+Você pode criar grupos aleatórios, com no máximo 3-4 pessoas em cada grupo. Leia a resposta de cada um durante o exercício e escolha alguns grupos para compartilhar com toda a classe. Escolha cada grupo porque eles acrescentam algo interessante ou diferente à discussão. Se você tiver alguns grupos, dê a todos eles a chance de compartilhar suas ideias.
+
+::: {.callout-note}
+Se você estiver ensinando o *120* minutos do treinamento, é hora de fazer um intervalo de 5/10 minutos longe da tela.
+:::
+
+::: {.callout-tip}
+
+## Exercício: Pratique o modelo GROW orientando seu colega de classe
+
+Este é um exercício extra para o curso de *120* minutos do treinamento.
+Você encontrará as instruções sobre o exercício 2.b no documento compartilhado.
+Se você estiver ensinando o *90* minutos de treinamento, então você deve remover o
+2\.b no documento compartilhado.
+:::
+
+Terminei esta seção com o slide\_ *doze* com um resumo do modelo GROW.
+
+### Ferramentas do mentor. Logística do programa
+
+A próxima sessão apresenta as Diretrizes para Mentores e outras infraestruturas e ferramentas que desenvolvemos para o programa de campeões.
+
+Slide compartilhado **treze** Se você quiser, mencione cada ferramenta e depois mostre as ferramentas. A mais importante delas é a *Diretrizes para mentores*. Você pode clicar nos slides para abrir o documento e percorrê-lo, mostrando cada seção, a lista de recursos e as informações que reunimos para eles.
+
+Você pode clicar no link para os outros recursos dentro das diretrizes para mostrá-los: certifique-se de mostrar o Google Drive e os modelos de reunião. Por fim, você pode perguntar se eles querem verificar os canais do Slack.
+
+::: {.callout-tip}
+
+## Verificação de acesso
+
+Este é um excelente momento para você verificar o acesso a esses recursos: todos estão no Slack e nos canais adequados? Você tem acesso ao Google Drive e ao Google Docs? Você pode copiar os modelos de reunião e acessar o formulário de relatório de reunião?
+:::
+
+Agora é hora do próximo exercício. Com a solicitação "Você está pronto para a mentoria?", damos espaço para comentários, perguntas e esclarecimentos que os mentores precisarem. Permita que eles falem ou escrevam no documento compartilhado ou no bate-papo. Se eles perguntarem no bate-papo, copie esses comentários no documento compartilhado. Essas perguntas podem ser úteis para os outros grupos. O tempo para essa atividade é de 10 minutos, mas reserve mais minutos se eles tiverem boas perguntas sobre a função de mentor ou o programa. 
+
+O exercício final pede que os mentores pratiquem o feedback construtivo preenchendo uma pesquisa anônima de feedback sobre o treinamento. Compartilhe o link para o formulário no chat ou mencione que eles podem acessar o link na nota compartilhada. Dê a você 5 minutos para preencher a pesquisa.
+
+::: {.callout-tip}
+
+## Verificação de conclusão
+
+Para este exercício final, você também pode pedir aos alunos que escrevam no bate-papo *"Feito!"* ou *"Finish!"* ou algo semelhante quando eles terminarem. Dessa forma, você saberá e poderá encerrar a atividade quando todos tiverem terminado. Em alguns casos, isso pode significar antes do tempo alocado para o exercício.
+:::
+
+## Pós-treinamento
+
+Após o treinamento, envie uma mensagem (e-mail, Slack) agradecendo aos participantes e compartilhando novamente os recursos essenciais:
+
+- Documento compartilhado (que tem links para os slides, guia de mentoria, modelos de reunião etc.).
+- Gravação da reunião (caso você a tenha gravado).
+- A pesquisa de feedback (para uma segunda chance de preenchimento).
+
+Verifique a pesquisa de feedback e identifique um ou dois pontos a serem melhorados para a próxima iteração do treinamento.
+
+
