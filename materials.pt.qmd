@@ -1,0 +1,18 @@
+---
+title: Materiais do curso
+---
+
+Você pode usar esse treinamento:
+
+- um conjunto de [slides](https://docs.google.com/presentation/d/1qAv8IfSMRRGbQlwOkyM7QvnYQSEvL-cUFPj72ixNgN4/edit?usp=sharing),
+- a [documento compartilhado](https://docs.google.com/document/d/1Grv1yegKh0QmucLqYHLh7tPZCwn3Xhy3paiepzsa9Ow/edit?usp=sharing) com os exercícios a serem resolvidos durante a aula, para fazer anotações compartilhadas e compartilhar recursos.
+- a [pesquisa de feedback](https://docs.google.com/document/d/1gDe3IcVLoQTl15pFaCOvchIZJpCi3pBlBMjYeUGfqyY/edit?usp=sharing)
+
+Também fornecemos aos mentores ferramentas para suas funções:
+
+- [Diretrizes para mentores do programa rOpenSci Champions](https://ropensci-org.github.io/champions-mentor-guidelines/)
+- [Modelos de reunião](https://docs.google.com/document/d/1vjmfbjv9ABJ6fkbtQRMFPydJZ3ypKOIpZ-xf7_iBhvo/edit?usp=sharing)
+- [Formulário de relatório de reunião](https://docs.google.com/document/d/1PXYXF5wmrzSiNFylvfGgAvLDh87OZOd7B0qJzeO8VBQ/edit?usp=sharing)
+- [Carta mensal do mentor](https://docs.google.com/document/d/1-HZRNp4lc7s0NJhKPfGRe8I9dxohBkDyjUC35KINHCQ/edit?usp=sharing)
+
+
