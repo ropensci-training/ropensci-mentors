@@ -8,7 +8,7 @@ Envie um convite de calendário com os links para a reunião e para as anotaçõ
 
 No arquivo de anotações compartilhadas, adicione o link para a reunião e o restante do material (como slides, vídeos, etc.).
 
-Faça um lembrete no dia anterior e uma hora antes.
+Faça um lembrete no dia anterior e outro uma hora antes da reunião.
 
 ::: {.callout-tip}
 
