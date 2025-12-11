@@ -108,7 +108,7 @@ Agora, ilustre os comentários e os pontos de destaque no slide. Mais uma vez, u
 
 O slide a seguir (número oito) apresenta as reuniões.
 
-> As reuniões são um dos locais em que a mentoria ocorrerá e onde os mentores usarão a habilidade que mencionamos.
+> As reuniões são um dos ambientes onde a mentoria ocorrerá e onde as pessoas mentoras usarão as habilidades que mencionamos.
 
 Observe que criamos modelos para as reuniões como um andaime para a tarefa de mentoria. E, em seguida, apresentamos o modelo GROW.
 
