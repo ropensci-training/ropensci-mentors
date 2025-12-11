@@ -144,7 +144,7 @@ A próxima sessão apresenta as Diretrizes para Mentores(as) e outras infraestru
 
 Compartilhe o slide **treze**, mencione cada ferramenta e, em seguida, mostre-as. A mais importante delas é a *Diretrizes para Mentores(as)*. Você pode clicar nos slides para abrir o documento e navegar por ele, visualizando cada seção, a lista de recursos e as informações reunidas.
 
-Você pode clicar no link para os outros recursos dentro das diretrizes para mostrá-los: certifique-se de mostrar o Google Drive e os modelos de reunião. Por fim, você pode perguntar se eles querem verificar os canais do Slack.
+Clique no link para os outros recursos dentro das diretrizes para mostrá-los: certifique-se de mostrar o Google Drive e os modelos de reunião. Por fim, você pode perguntar se as pessoas querem consultar os canais do Slack.
 
 ::: {.callout-tip}
 
