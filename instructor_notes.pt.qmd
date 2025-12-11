@@ -14,7 +14,7 @@ Faça um lembrete no dia anterior e outro uma hora antes da reunião.
 
 ## Lembretes
 
-Use os diferentes canais que você tem. Por exemplo, usamos o Slack e o e-mail.  Tente usar lembretes independentes de fuso horário, como *"Vejo todos vocês em 50 minutos, aqui (link)"*
+Use os diferentes canais que você tem. Por exemplo, usamos o Slack e o e-mail. Tente usar lembretes independentes de fuso horário, como *"Vejo vocês em 50 minutos, aqui (link)"*
 :::
 
 ## Treinamento
