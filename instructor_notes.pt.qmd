@@ -132,7 +132,7 @@ Caso esteja ministrando um treinamento de *120* minutos, é hora de fazer um int
 
 Este é um exercício extra para o treinamento de *120* minutos.
 Encontre as instruções sobre o exercício 2.b no documento compartilhado.
-Se você estiver ensinando o *90* minutos de treinamento, então você deve remover o
+Caso esteja ministrando o treinamento de *90* minutos, remova o exercício
 2\.b no documento compartilhado.
 :::
 
