@@ -112,7 +112,7 @@ O slide a seguir (número oito) apresenta as reuniões.
 
 Observe que criamos modelos para as reuniões como um andaime para a tarefa de mentoria. E, em seguida, apresentamos o modelo GROW.
 
-### Ferramentas do mentor. Modelo GROW.
+### Ferramentas da pessoa mentora. Modelo GROW.
 
 Use os slides nove e dez para apresentar o modelo e, em seguida, você fará o segundo exercício.
 
