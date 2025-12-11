@@ -150,7 +150,7 @@ Clique no link para os outros recursos dentro das diretrizes para mostrá-los: c
 
 ## Verificação de acesso
 
-Este é um excelente momento para você verificar o acesso a esses recursos: todos estão no Slack e nos canais adequados? Você tem acesso ao Google Drive e ao Google Docs? Você pode copiar os modelos de reunião e acessar o formulário de relatório de reunião?
+Este é um excelente momento para verificar o acesso a esses recursos: todas as pessoas estão no Slack e nos canais adequados? Elas têm acesso ao Google Drive e ao Google Docs? Conseguem copiar os modelos de reunião e acessar o formulário de relatório de reunião?
 :::
 
 Agora é hora do próximo exercício. Com a solicitação "Você está pronto para a mentoria?", damos espaço para comentários, perguntas e esclarecimentos que os mentores precisarem. Permita que eles falem ou escrevam no documento compartilhado ou no bate-papo. Se eles perguntarem no bate-papo, copie esses comentários no documento compartilhado. Essas perguntas podem ser úteis para os outros grupos. O tempo para essa atividade é de 10 minutos, mas reserve mais minutos se eles tiverem boas perguntas sobre a função de mentor ou o programa. 
