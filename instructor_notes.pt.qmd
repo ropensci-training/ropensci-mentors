@@ -4,7 +4,7 @@ title: Notas dos(as) instrutores(as)
 
 ## Pré-treinamento
 
-Envie um convite de calendário com o link para a reunião e um link para as anotações compartilhadas.
+Envie um convite de calendário com os links para a reunião e para as anotações compartilhadas.
 
 No arquivo de anotações compartilhadas, adicione o link para a reunião e o restante do material (como slides, vídeos, etc.).
 
