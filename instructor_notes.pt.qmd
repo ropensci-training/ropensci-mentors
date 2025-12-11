@@ -142,7 +142,7 @@ Termine esta seção com o slide *doze* que contém um resumo do modelo GROW.
 
 A próxima sessão apresenta as Diretrizes para Mentores(as) e outras infraestruturas e ferramentas que desenvolvemos para o programa campeãs e campeões.
 
-Slide compartilhado **treze** Se você quiser, mencione cada ferramenta e depois mostre as ferramentas. A mais importante delas é a *Diretrizes para mentores*. Você pode clicar nos slides para abrir o documento e percorrê-lo, mostrando cada seção, a lista de recursos e as informações que reunimos para eles.
+Compartilhe o slide **treze**, mencione cada ferramenta e, em seguida, mostre-as. A mais importante delas é a *Diretrizes para Mentores(as)*. Você pode clicar nos slides para abrir o documento e navegar por ele, visualizando cada seção, a lista de recursos e as informações reunidas.
 
 Você pode clicar no link para os outros recursos dentro das diretrizes para mostrá-los: certifique-se de mostrar o Google Drive e os modelos de reunião. Por fim, você pode perguntar se eles querem verificar os canais do Slack.
 
