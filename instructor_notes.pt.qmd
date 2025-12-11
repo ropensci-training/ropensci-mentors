@@ -138,7 +138,7 @@ Caso esteja ministrando o treinamento de *90* minutos, remova o exercício
 
 Termine esta seção com o slide *doze* que contém um resumo do modelo GROW.
 
-### Ferramentas do mentor. Logística do programa
+### Ferramentas da pessoa mentora. Logística do programa
 
 A próxima sessão apresenta as Diretrizes para Mentores e outras infraestruturas e ferramentas que desenvolvemos para o programa de campeões.
 
