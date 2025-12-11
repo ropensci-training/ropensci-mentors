@@ -172,6 +172,6 @@ Após o treinamento, envie uma mensagem (e-mail, Slack) agradecendo as pessoas p
 - Gravação da reunião (caso você a tenha gravado).
 - A pesquisa de avaliação (para uma segunda chance de preenchimento).
 
-Verifique a pesquisa de feedback e identifique um ou dois pontos a serem melhorados para a próxima iteração do treinamento.
+Verifique a pesquisa de avaliação e identifique um ou dois pontos a serem melhorados para a próxima edição do treinamento.
 
 
