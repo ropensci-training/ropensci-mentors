@@ -131,7 +131,7 @@ Caso esteja ministrando um treinamento de *120* minutos, é hora de fazer um int
 ## Exercício: Pratique o modelo GROW orientando seu/sua colega de classe
 
 Este é um exercício extra para o treinamento de *120* minutos.
-Você encontrará as instruções sobre o exercício 2.b no documento compartilhado.
+Encontre as instruções sobre o exercício 2.b no documento compartilhado.
 Se você estiver ensinando o *90* minutos de treinamento, então você deve remover o
 2\.b no documento compartilhado.
 :::
