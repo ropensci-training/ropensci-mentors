@@ -166,7 +166,7 @@ Para este exercício final, peça as pessoas participantes que escrevam no bate-
 
 ## Pós-treinamento
 
-Após o treinamento, envie uma mensagem (e-mail, Slack) agradecendo aos participantes e compartilhando novamente os recursos essenciais:
+Após o treinamento, envie uma mensagem (e-mail, Slack) agradecendo as pessoas participantes e compartilhando novamente os recursos essenciais:
 
 - Documento compartilhado (que tem links para os slides, guia de mentoria, modelos de reunião etc.).
 - Gravação da reunião (caso você a tenha gravado).
