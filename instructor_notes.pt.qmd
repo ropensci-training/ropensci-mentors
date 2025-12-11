@@ -168,7 +168,7 @@ Para este exercício final, peça as pessoas participantes que escrevam no bate-
 
 Após o treinamento, envie uma mensagem (e-mail, Slack) agradecendo as pessoas participantes e compartilhando novamente os recursos essenciais:
 
-- Documento compartilhado (que tem links para os slides, guia de mentoria, modelos de reunião etc.).
+- Documento compartilhado (que tem os links para os slides, o guia de mentoria, os modelos de reunião, etc.).
 - Gravação da reunião (caso você a tenha gravado).
 - A pesquisa de feedback (para uma segunda chance de preenchimento).
 
