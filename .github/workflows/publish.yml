@@ -42,6 +42,7 @@ jobs:
 
       - name: Commit results
         run: |
+          cp ghpagescname docs/CNAME
           cd docs
           git init
           git add .
