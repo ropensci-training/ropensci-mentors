@@ -1,0 +1,63 @@
+---
+title: Programa rOpenSci Champions. Treinamento e orientação de mentores
+---
+
+Este curso faz parte do treinamento e da orientação de mentores do rOpenSci Champion Program.
+
+Os mentores desempenham um papel fundamental no Programa de Campeões do rOpenSci, ajudando a selecionar o primeiro grupo de Campeões e aconselhando e inspirando seus pupilos. Os mentores também **conectar** seus pupilos a pessoas, programas e organizações; **recomendar** recursos, leituras, treinamentos e experiências; e fornecem **feedback** sobre o projeto do mentorado.
+
+Após esse treinamento, os mentores trabalharão com os Campeões para apoiá-los enquanto desenvolvem seu projeto, que pode ser uma das seguintes opções:
+
+- Criar um novo pacote;
+- Passar pelo processo de revisão com um pacote R que você já tenha desenvolvido;
+- Atuar como revisor do sistema de revisão por pares do software rOpenSci.
+
+Os mentores também podem ajudar os Campeões a realizar outras atividades, incluindo: dar palestras, escrever publicações em blogs e ensinar outras comunidades.
+
+## Quem são nossos mentores?
+
+Todos os treinamentos são elaborados com algumas personas de alunos em mente. Como comunidade, também temos personas para descrever nossos membros.  Quando criamos esse material de treinamento, pensamos nessa persona:
+
+Fausti
+
+: enviaram seus pacotes para [Processo de revisão da rOpenSci](https://ropensci.org/software-review/) há alguns anos. O processo garantiu a qualidade de seus softwares e facilitou sua publicação em [JOSS](https://joss.theoj.org/) o que lhes deu crédito acadêmico. Além disso, a obtenção do selo rOpenSci como uma organização internacional ajudou outros colegas a levar seus produtos de software mais a sério e como produtos de pesquisa válidos.
+Fausti se ofereceu para revisar pacotes em espanhol e aconselhou outros colegas a enviar seus pacotes para revisão, pois sua experiência foi muito boa.
+Fausti ficou sabendo sobre a [programa de campeões](https://ropensci.org/champions/) e se ofereceu para ser mentor porque pode retribuir à comunidade. É também uma maneira de ser treinado como mentor, o que é uma boa habilidade para sua função acadêmica e para aumentar sua rede de contatos.
+
+Durante esse treinamento e orientação, Fausti adquirirá habilidades de mentoria (escuta ativa, questionamento eficaz, feedback), receberá recursos para sua função de mentor, como as Diretrizes para Mentores, Modelos de Reunião e detalhes da logística do programa de campeões.
+
+## Metas de aprendizado
+
+- O que um mentor faz?
+- Como posso ouvir ativamente meu colega?
+- Como posso fazer perguntas eficazes?
+- Como posso dar um bom feedback?
+- Como estabeleço expectativas para mim e para o mentorado?
+- Quais são as ferramentas úteis quando você orienta alguém em um projeto?
+- Como o programa é organizado?
+
+## Fontes
+
+Usamos diferentes fontes para criar este treinamento e o material. Agradecemos a essas organizações e seus autores por compartilharem seus materiais sob uma licença aberta que podemos reutilizar e remixar.
+
+- [Mozilla Open Leaders](https://foundation.mozilla.org/en/initiatives/mozilla-open-leaders/)
+- [Ensinando tecnologia juntos](https://teachtogether.tech/en/index.html)
+- [Treinamento de instrutores da Carpentries](https://carpentries.github.io/instructor-training/)
+
+## Como você pode usar este material
+
+Se quiser usar este material para ensinar, você pode encontrar *Notas para o instrutor* com um roteiro para o curso, conteúdo extra para os slides e uma explicação dos exercícios.
+
+Na seção de material, você pode acessar os slides e outros modelos de documentos que podem ser copiados, reutilizados e remixados para o seu treinamento.
+
+### Licença
+
+Este trabalho está licenciado sob a licença [Creative Commons Attribution-NonCommercial 4.0](https://creativecommons.org/licenses/by-nc/4.0/) (CC-BY-NC-4.0).
+
+### Como citar este trabalho
+
+![](https://zenodo.org/badge/DOI/10.5281/zenodo.7742298.svg)
+
+Yanina Bellini Saibene. (2023, 16 de março). Treinamento e orientação de mentores. Programa rOpenSci Champions. Zenodo. <https://doi.org/10.5281/zenodo.7742298>
+
+
