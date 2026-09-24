@@ -4,6 +4,7 @@ project:
 
 website:
   title: "Mentorship Training and Orientation"
+  llms-txt: true
   sidebar:
     background: primary
     # logo: "images/logo.png"
