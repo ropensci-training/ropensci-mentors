@@ -1,0 +1,29 @@
+# Mentorship Training and Orientation -- multilingual content, refer to the right language!
+
+### Pages in en
+
+- [Course Materials](materials.llms.md)
+- [Schedule](schedule.llms.md)
+- [LICENSE](LICENSE.llms.md)
+- [rOpenSci Champions Program. Mentorship Training and Orientation](index.llms.md)
+- [CODE_OF_CONDUCT](CODE_OF_CONDUCT.llms.md)
+- [Instructors Notes](instructor_notes.llms.md)
+
+## Mentorship Training and Orientation
+
+### Pages in es
+
+- [Programa](schedule.es.llms.md)
+- [Course Materials](materials.llms.md)
+- [Schedule](schedule.llms.md)
+- [Programação](schedule.pt.llms.md)
+- [Materiales del curso](materials.es.llms.md)
+- [Materiais do curso](materials.pt.llms.md)
+- [LICENSE](LICENSE.llms.md)
+- [rOpenSci Champions Program. Mentorship Training and Orientation](index.llms.md)
+- [CODE_OF_CONDUCT](CODE_OF_CONDUCT.llms.md)
+- [Notas dos(as) instrutores(as)](instructor_notes.pt.llms.md)
+- [Programa de Campeões(ãs) da rOpenSci. Treinamento e orientação de mentores e mentoras](index.pt.llms.md)
+- [Programa de Campeon(a|e)s de rOpenSci. Formación y orientación para mentores y mentoras](index.es.llms.md)
+- [Instructors Notes](instructor_notes.llms.md)
+- [Notas para docentes](instructor_notes.es.llms.md)
